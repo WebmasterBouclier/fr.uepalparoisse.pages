@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/sommaire-listes</path>
+    <page_callback>CRM_Pages_Page_SommaireListes</page_callback>
+    <title>SommaireListes</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/conseil-presbyteral</path>
+    <page_callback>CRM_Pages_Page_ConseilPresbyteral</page_callback>
+    <title>ConseilPresbyteral</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
